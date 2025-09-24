@@ -1,10 +1,10 @@
-# EmbeddedLinux_IMX8MP
+# Embedded_Linux_IMX8MP
 
 [EN]I aimed to lay the foundation of a ground control station using Embedded Linux. During this process, I wanted to demonstrate how structures such as adding layers and 
-cross-compiling are built.
+cross-compiling are built. The shared code in the project will work only to a limited extent if used as-is. The purpose of this page is to provide a foundation for the Embedded Linux system.
 
 [TR]Embedded Linux kullanarak bir yer kontrol istasyonunun temellerini atmayı hedefledim. Bu süreçte, katman ekleme ve çapraz derleme gibi yapıların nasıl oluşturulduğunu
-göstermek istedim.
+göstermek istedim. Projede paylaşılan kodları hazır olarak kullandığınızda çalışması oldukça azdır. Bu sayfanın amacı Gömülü Linux sistemi için bir temel oluşturmaktır.
 
 I recommend you watch the tutorial given by Murat Boyar for Yocto.(https://www.youtube.com/playlist?list=PLlKf4EyiSijBz9dsXVGe7a-R6wJCvSRXt)
 
