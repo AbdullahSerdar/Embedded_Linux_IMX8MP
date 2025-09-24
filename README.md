@@ -10,4 +10,4 @@ I recommend you watch the tutorial given by Murat Boyar for Yocto.(https://www.y
 
 Torizon's website that explains how to compile our own image(https://developer.toradex.com/linux-bsp/os-development/build-yocto/build-a-reference-image-with-yocto-projectopenembedded/)
 
-NOTE: If a white screen appears after the image is loaded, or if data is sent to the screen but a clear background does not form, the reason may be artifacts generated during compilation. To fix this, access the board’s serial terminal and enter: systemctl disable wayland-app-launch.service, then reset the board. If the issue persists, repeat the process.
+NOTE: If a white screen appears after the image is loaded, or if data is sent to the screen but a clear background does not form, the reason may be artifacts generated during compilation. To fix this, access the board’s serial terminal and enter: "systemctl disable wayland-app-launch.service", then reset the board. If the issue persists, repeat the process.
