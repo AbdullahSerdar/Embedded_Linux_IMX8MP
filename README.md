@@ -1,4 +1,4 @@
-# Embedded_Linux_IMX8MP
+# Embedded_Linux_IMX8MP_QGC
 
 [EN] I aimed to lay the foundations of a ground control station using Embedded Linux. In this process, I wanted to demonstrate how structures such as adding layers and cross-compiling are built. I did not share the full coding part of the project, since every system has different requirements, which significantly reduces the likelihood of the code working as-is. The purpose of this page is to illustrate, through my project, the process that someone working with Embedded Linux would go through and the requirements they would need.
 
