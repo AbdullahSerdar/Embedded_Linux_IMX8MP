@@ -6,4 +6,4 @@ Cross_Compile_Explain dosyası ile biz bir uygulamayı kendi sistemimiz için ge
 
 "local.conf ve bblayers.conf" klasörleri kullandığımız yapıdaki config dosyalarıdır ve bu dosyalar ile derleme işlemlerini yaparız.
 
-"Verdin-iMX8MP_Reference-Multimedia-Image-Tezi_7.1.0-devel-20241211063024+build.0" Derlememiz ile oluşan Yocto Linux imajı
+"Verdin-iMX8MP_Reference-Multimedia-Image-Tezi_7.1.0-devel-20241211063024+build.0" Derlememiz ile oluşan Yocto Linux imaji
