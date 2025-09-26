@@ -6,8 +6,6 @@
 
 I recommend you watch the tutorial given by Murat Boyar for Yocto.(https://www.youtube.com/playlist?list=PLlKf4EyiSijBz9dsXVGe7a-R6wJCvSRXt)
 
-<img width="447" height="381" alt="Picture1" src="https://github.com/user-attachments/assets/25b9b808-320c-493e-a890-13356de1389b" />
-
 Torizon's website that explains how to compile our own image(https://developer.toradex.com/linux-bsp/os-development/build-yocto/build-a-reference-image-with-yocto-projectopenembedded/)
 
 The source code of the QGC (https://github.com/mavlink/qgroundcontrol/tree/Stable_V4.4) 
