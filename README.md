@@ -4,6 +4,7 @@
 
 [TR] Gömülü Linux kullanarak bir yer kontrol istasyonunun temellerini atmayı hedefledim. Bu süreçte, katman ekleme ve çapraz derleme gibi yapıların nasıl oluşturulduğunu göstermek istedim. Her sistemin farklı gereksinimleri olduğundan ve kodun olduğu gibi çalışma olasılığı önemli ölçüde azaldığından, projenin tüm kodlama kısmını paylaşmadım. Bu sayfanın amacı, projem aracılığıyla, Gömülü Linux ile çalışan birinin izleyeceği süreci ve ihtiyaç duyacağı gereksinimleri göstermektir.
 
+<img width="447" height="381" alt="Picture1" src="https://github.com/user-attachments/assets/25b9b808-320c-493e-a890-13356de1389b" />
 I recommend you watch the tutorial given by Murat Boyar for Yocto.(https://www.youtube.com/playlist?list=PLlKf4EyiSijBz9dsXVGe7a-R6wJCvSRXt)
 
 Torizon's website that explains how to compile our own image(https://developer.toradex.com/linux-bsp/os-development/build-yocto/build-a-reference-image-with-yocto-projectopenembedded/)
